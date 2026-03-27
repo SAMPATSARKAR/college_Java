@@ -17,5 +17,6 @@ class main{
         Universal obj = new Universal();
         Universal.work a = obj.new work();
         a.study();
+        // a.getData();
     }
 }
